@@ -50,7 +50,7 @@ new Distribution(stack, 'dist', {
 | [Access Origin by geolocation](https://github.com/pahud/cdk-cloudfront-plus/issues/41) | Origin Selection    | SO8118 | cf-access-origin-by-geolocation        | Completed | @pahud |
 | [Redirect by geolocation](https://github.com/pahud/cdk-cloudfront-plus/issues/11) | Origin Selection    | SO8135 | cf-redirect-by-geolocation        | Completed | @minche-tsai |
 | [Convert Query String](https://github.com/pahud/cdk-cloudfront-plus/issues/23) |  Override Request   | SO8113 | cf-convert-query-string        | WIP(ScottHsieh) | - |
-| [OAuth2 Authentication](https://github.com/pahud/cdk-cloudfront-plus/issues/17) |  Authentication   | SO8131 | cf-authentication-by-oauth2        | WIP(Ernest) | - |
+| [OAuth2 Authentication](https://github.com/pahud/cdk-cloudfront-plus/issues/17) |  Authentication   | SO8131 | cf-authentication-by-oauth2        | Completed | @dwchiang PR#59 |
 | [Cognito Redirect](https://github.com/pahud/cdk-cloudfront-plus/issues/16) |  Authentication   | SO8132 | cf-authentication-by-cognito-redirect        | WIP(BabooPan) | - |
 | [Custom Log to Kinesis Firehose](https://github.com/pahud/cdk-cloudfront-plus/issues/14) |  Logging   | SO8133 | cf-global-data-ingestion        | WIP(Titan) | - |
 | [HTTP 302 from Origin](https://github.com/pahud/cdk-cloudfront-plus/issues/12) |  URL Redirect   | SO8103 | cf-http302-from-origin     | WIP(Rico) | - |
